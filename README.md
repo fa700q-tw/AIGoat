@@ -1,4 +1,4 @@
-# AIGoat - Open Source AI Security Playground (AI Goat) for LLM Red Teaming
+# AIGoat - Open Source AI Security Playground for LLM Red Teaming 
 
 <p align="center">
   <img src="media/images/logo.jpg" alt="AIGoat - AI Security Playground" width="200"/>
